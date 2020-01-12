@@ -26,3 +26,5 @@ https://drive.google.com/file/d/1AK7ptCarNFh-nfqSpuhHE_HDHuYx4zBe/view?usp=shari
 
 - Evaluation
   - Manual evaluation on spot. If you come up with a metric, that's a bonus.
+  
+  Once, your assignment complete. Commit the link in git.
